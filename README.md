@@ -1,6 +1,9 @@
 # cisco-programmable-fabric
 Ansible playbooks to configure the Cisco Programmable Fabric VXLAN solution that uses MP-iBGP EVPN, OSPF, IP Unnumbered, and PIM SM in the Underlay. Spines act as route-reflectors and PIM Anycast RPs.
 
+* http://www.cisco.com/c/en/us/solutions/data-center-virtualization/programmable-fabric/index.html
+* http://www.cisco.com/c/en/us/td/docs/switches/datacenter/pf/configuration/guide/b-pf-configuration.html
+
 Contact(s):
 * Matt Tarkington (mtarking@cisco.com)
 

@@ -36,3 +36,9 @@ docker build -t cisco-programmable-fabric .
 ```
 docker run -it cisco-programmable-fabric
 ```
+
+## Option 3:
+
+```
+docker pull mtarking/cisco-programmable-fabric
+```

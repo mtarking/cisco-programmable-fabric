@@ -86,7 +86,7 @@
     - name: CONFIGURE PIM RP
       nxos_pim_rp_address:
         rp_address: "{{ rp_address }}"
-      provider: "{{ nxos_provider }}"
+        provider: "{{ nxos_provider }}"
 
     - name: CONFIGURE PIM INTERFACES
       nxos_pim_interface:
